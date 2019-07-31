@@ -42,7 +42,7 @@ export default function AccordionItemTitle({
 }
 
 AccordionItemTitle.defaultProps = {
-  rootTag: 'h3'
+  rootTag: 'h6'
 };
 
 AccordionItemTitle.propTypes = {
